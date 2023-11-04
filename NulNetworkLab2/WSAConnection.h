@@ -1,6 +1,8 @@
 #pragma once
 #include <string>
 
+// M2
+
 class WSAConnection final {
 public:
 	WSAConnection();

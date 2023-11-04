@@ -18,3 +18,4 @@ protected:
 	WSAConnection wsaConnection;
 };
 
+// Test C4.
