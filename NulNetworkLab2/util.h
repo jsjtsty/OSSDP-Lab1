@@ -3,6 +3,8 @@
 #include <vector>
 #include <ctime>
 
+// M2
+
 namespace util {
 
 	std::string trim(const std::string& val);

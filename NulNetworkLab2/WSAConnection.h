@@ -1,6 +1,8 @@
 #pragma once
 #include <string>
 
+// M2
+
 class WSAConnection final {
 public:
 	WSAConnection();
@@ -8,3 +10,5 @@ public:
 
 	std::string getDescription() const;
 };
+
+// Test B1.
