@@ -32,3 +32,4 @@ private:
 	std::atomic_bool serverStarted;
 };
 
+// Test B2.

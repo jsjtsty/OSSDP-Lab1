@@ -8,6 +8,7 @@
 #include <iomanip>
 
 // Util methods.
+// Test B2.
 
 namespace util {
 
