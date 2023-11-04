@@ -4,6 +4,8 @@
 #include "NulNetworkException.h"
 #include <format>
 
+// M2
+
 typedef Socket::IPType IPType;
 
 namespace {
