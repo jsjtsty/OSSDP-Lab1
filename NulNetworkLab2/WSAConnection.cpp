@@ -5,6 +5,8 @@
 #include <cstdint>
 #include <mutex>
 
+// WSA Connection.
+
 namespace {
 	uint32_t instanceCount = 0;
 	std::mutex mutex;

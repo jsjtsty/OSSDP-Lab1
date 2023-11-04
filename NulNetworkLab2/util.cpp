@@ -7,6 +7,8 @@
 #include <sstream>
 #include <iomanip>
 
+// Util methods.
+
 namespace util {
 
 	std::string trim(const std::string& val) {
