@@ -8,3 +8,5 @@ public:
 
 	std::string getDescription() const;
 };
+
+// Test B1.
